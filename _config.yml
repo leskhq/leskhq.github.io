@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leskhq
 github_username:  leskhq
-github_project: lesk
+github_project: laravel-enterprise-starter-kit
 # Build settings
 markdown: kramdown
 #theme: minima
